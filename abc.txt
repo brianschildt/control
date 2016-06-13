@@ -1,0 +1,8 @@
+|| youtube.com^
+|| ytimg.com^
+|| 2mdn.net^
+|| doubleclick.net^
+|| dmtry.com^
+|| google.com^ *google.com
+|| googleadservices.com
+* googletagmanager.com * block
