@@ -6,15 +6,6 @@
 ||lrcdn.net^
 ||liverail.com^
 ! easyprivacy
-||facebook.com*/impression.php
-||facebook.com/brandlift.php
-||facebook.com/common/scribe_endpoint.php
-||facebook.com/email_open_log_pic.php
-||facebook.com/fr/u.php?
-||facebook.com/js/conversions/tracking.js
-||facebook.com/offsite_event.php$third-party
-||facebook.com/tr/?
-||facebook.com/tr?
 ||facebook.com^*/tracking.js$third-party
 ||pixel.facebook.com^
 /FacebookTracking.
