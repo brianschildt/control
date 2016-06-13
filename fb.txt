@@ -1,11 +1,9 @@
-||facebook.com^
+
 ||www.facebook.com^
 ||facebook.net^
 ||atdmt.com^
 ||fbcdn.net^
 ||lrcdn.net^
 ||liverail.com^
-! easyprivacy
-||facebook.com^*/tracking.js$third-party
 ||pixel.facebook.com^
 /FacebookTracking.
