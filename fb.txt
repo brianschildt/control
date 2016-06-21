@@ -5,5 +5,8 @@
 ||lrcdn.net^
 ||liverail.com^
 ||pixel.facebook.com^
+||facebook.com$domain=~www.facebook.com
+||facebook.net$domain=~www.facebook.com
+||fbcdn.net$domain=~www.facebook.com
 *$script,domain=facebook.com
 /FacebookTracking.
