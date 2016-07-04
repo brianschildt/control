@@ -8,4 +8,7 @@
 || google.dk^
 || googleadservices.com
 * googletagmanager.com * block
+ga.js * block
+analytics.js * block
+dc.js * block
 || apis.google.com/js/plusone.js
