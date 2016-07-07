@@ -8,5 +8,6 @@
 ||facebook.com$domain=~www.facebook.com
 ||facebook.net$domain=~www.facebook.com
 ||fbcdn.net$domain=~www.facebook.com
+||graph.facebook.com^
 *$script,domain=facebook.com
 /FacebookTracking.
