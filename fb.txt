@@ -11,4 +11,4 @@
 *$script,domain=facebook.com
 /FacebookTracking.
 
-||scontent.xx.fbcdn.net^$domain=~www.facebook.com
+
