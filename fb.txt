@@ -13,6 +13,7 @@
 
 
 ||analytics.twitter.com^
+||apis.google.com^
 ||platform.twimg.com^
 ||platform.linkedin.com^
 
