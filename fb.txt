@@ -5,6 +5,7 @@
 ||lrcdn.net^
 ||liverail.com^
 ||pixel.facebook.com^
+||connect.facebook.com^
 ||facebook.net$domain=~www.facebook.com
 ||fbcdn.net$domain=~www.facebook.com
 ||graph.facebook.com^
@@ -16,4 +17,3 @@
 ||apis.google.com^
 ||platform.twimg.com^
 ||platform.linkedin.com^
-
