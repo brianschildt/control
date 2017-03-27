@@ -1,0 +1,38 @@
+[Adblock Plus 2.0]
+! Version: 201703271224
+! Title: Hide clickbait
+! Homepage: 
+! License: http://creativecommons.org/publicdomain/zero/1.0/
+! Expires: 7 days
+!
+outbrain.com
+revcontent.com
+taboola.com
+zergnet.com
+Filtr8.com
+content.ad
+ayboll.com 
+Nativeads.com
+adblade.com
+mgid.com
+Engageya.com
+Revenue.com
+Yavli.com
+ShareThrough.com
+StoryStack.com
+Yarpp.com
+Pleeko.com
+AdsKeeper.co.uk
+Spoutable.com
+Kinley.com
+Sprinklecontent.com
+Strossle.com
+Postquare.com
+Plugz.co
+CrakRevenue.com
+Shareaholic.com
+Originative.com
+Dianomi.com
+Connatix.com
+mediashakers.com
+##div[data-outbrain-url]
